@@ -1,9 +1,9 @@
-# bigCommerce-shopping-system
+## bigCommerce-shopping-system
 It's an online e-commerce shopping system using django
 
 
 
-#Feature of the web-application:
+# Feature of the web-application:
 
 1. superUser access. 
 2. Customer view
