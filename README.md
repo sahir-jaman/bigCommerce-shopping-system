@@ -13,7 +13,7 @@ It's an online e-commerce shopping system using django
 6. Search element.
 
 ### Home page: 
-![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/1e8fff90-963a-4b8f-8307-7a76d2cdd47b)
+![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/49bd2094-23d5-4441-a786-a701dd42114f)
 ![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/59c7570b-c4e6-4ce4-80aa-5712dd9530a4)
 
 
