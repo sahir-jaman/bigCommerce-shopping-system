@@ -13,7 +13,9 @@ It's an online e-commerce shopping system using django
 6. Search element.
 
 ### Home page: 
-![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/c523dd3f-80b3-4c7f-9692-12ea7f112694)
+![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/1e8fff90-963a-4b8f-8307-7a76d2cdd47b)
+![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/59c7570b-c4e6-4ce4-80aa-5712dd9530a4)
+
 
 ### Product page with searchable functionality
 ![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/4ecf493a-457f-45d1-829c-9bb6c45ae76a)
