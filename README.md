@@ -28,6 +28,9 @@ It's an online e-commerce shopping system using django
 ### Contact page
 ![image](https://github.com/sahir-jaman/bigCommerce-shopping-system/assets/55667189/0c0b868b-7366-479d-984f-a8076a992938)
 
+email: titasmondol567@gmail.com
+pass: titas123
+
 
 
 
